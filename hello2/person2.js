@@ -19,7 +19,6 @@ class Person extends React.Component {
  
 
 const element1 = document.getElementById('person1')
-
 const element2 = document.getElementById('person2')
 
  
