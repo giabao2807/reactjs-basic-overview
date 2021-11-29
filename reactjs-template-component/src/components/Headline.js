@@ -2,7 +2,7 @@ import React from 'react';
  
 const Headline = () => {
   return (
-    <h1>Big Title</h1>
+    <h1>GiaBao Title</h1>
   )
 }
  
